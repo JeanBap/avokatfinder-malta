@@ -1,5 +1,32 @@
 # AvökatFinder Malta
-> English-speaking law firm directory for Malta
+> The English-language directory of lawyers and law firms in Malta for expats, foreign nationals and international businesses.
 
-Directory: https://malta.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://malta.avokatfinder.com/: Home — find an English-speaking lawyer in Malta
+- https://malta.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Malta
+- https://malta.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Malta legal terms
+- https://malta.avokatfinder.com/blog/: Expat legal guides and property law articles for Malta
+- https://malta.avokatfinder.com/about/: About AvökatFinder Malta
+- https://malta.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://malta.avokatfinder.com/glossary/affiliation-order/
+- https://malta.avokatfinder.com/glossary/civil-partnership/
+- https://malta.avokatfinder.com/glossary/company-act-malta/
+- https://malta.avokatfinder.com/glossary/employment-law-malta/
+- https://malta.avokatfinder.com/glossary/konvenju-malta/
+- https://malta.avokatfinder.com/glossary/maintenance-order/
+- https://malta.avokatfinder.com/glossary/matrimonial-property/
+- https://malta.avokatfinder.com/glossary/residence-permit-malta/
+- https://malta.avokatfinder.com/glossary/stamp-duty-malta/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Malta
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://malta.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
